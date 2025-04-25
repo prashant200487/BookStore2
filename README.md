@@ -1,4 +1,4 @@
-# Bookstore Project
+# Bookstore Project -Prashant
 
 ## Project Overview
 The Bookstore project is a web application designed to manage and showcase a collection of books. Users can browse books, add them to their cart, and proceed to checkout. The project is built using Django, a high-level Python web framework, and includes features such as user authentication, cart management, and an admin interface for managing books.
